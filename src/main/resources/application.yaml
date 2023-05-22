@@ -7,11 +7,11 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://106.53.103.231:3306/hmdp?useSSL=false&serverTimezone=UTC
     username: root
-    password: wycmzxx888888..
+    password: 
   redis:
-    host: 106.53.103.231
+    host: 
     port: 8862
-    password: wycmzxx888888..
+    password: 
     lettuce:
       pool:
         max-active: 10
